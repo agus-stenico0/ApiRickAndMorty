@@ -1,0 +1,29 @@
+#container{
+    width: 100%;
+    height: auto;
+    background-color: rgb(83, 82, 82);
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.card{
+    width: 200px;
+    background-color: green;
+    border: 3px solid rgb(101, 101, 212);
+    margin: 10px;
+    height: 150px;
+    border-radius: 10%;
+    
+  
+}
+.personajes{
+    border-radius: 50%;
+    border: 2px solid rgb(3, 46, 3);
+    width: 80px;
+}
+.text-target{
+    text-transform: capitalize;
+    
+}
